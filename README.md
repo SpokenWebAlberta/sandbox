@@ -1,5 +1,7 @@
-# SpokenWeb UAlberta
-Welcome to the public-facing website for the SpokenWeb Research Network at the University of Alberta.
+# SpokenWeb UAlberta SANDBOX
+Welcome to the SpokenWeb U Alberta sandbox!
+
+This is a copy of the website, which is used for training purposes.
 
 Test version of the website can be found [here](https://cmiya.github.io/spokenweb-ualberta/).
 

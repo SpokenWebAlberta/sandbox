@@ -8,17 +8,11 @@ permalink: /exhibits/exhibit-template/
 featured_image: /img/cat-1.jpeg
 description: "Iconic cats through the ages."
 featured_objects:
-  - 59248
-  - 59263
-  - 59250
-  - 59230
-  - 59239
-  - 59235
-  - 59242
-  - 59253
-  - 59251
-  - 59257
-  - 59241
+  - 59221
+  - 59213
+  - 59214
+  - 59231
+  - 59212
 ---
 
 <div class = "figure left">

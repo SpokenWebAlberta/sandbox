@@ -16,4 +16,4 @@ This site is used for training purposes.
 
 Enjoy!
 
-[More About Us](/spokenweb-ualberta/about/){: .btn2}
+[More About Us](/sandbox/about/){: .btn2}

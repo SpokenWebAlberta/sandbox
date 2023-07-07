@@ -7,11 +7,11 @@ event_end:
 event_location: The University of Alberta
 event_room: Digital Scholarship Centre
 permalink: /events/template/
-featured_image: /img/test-logo.jpeg
+featured_image: /img/sparklers.jpeg
 description: "Here is a description of a very cool event!"
 ---
 <div class = "figure">
-  <img src="{{ '/img/test-logo.jpeg' | absolute_url }}" width="600" />
+  <img src="{{ '/img/sparklers.jpeg' | absolute_url }}" width="600" />
 </div>
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet purus gravida quis blandit turpis. Sed risus pretium quam vulputate dignissim suspendisse in est.** Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Enim blandit volutpat maecenas volutpat blandit. Nulla malesuada pellentesque elit eget gravida cum sociis. Odio pellentesque diam volutpat commodo sed egestas egestas. Vestibulum morbi blandit cursus risus at ultrices mi. Pellentesque massa placerat duis ultricies. Habitant morbi tristique senectus et netus et. Amet consectetur adipiscing elit pellentesque. Etiam dignissim diam quis enim lobortis scelerisque fermentum.

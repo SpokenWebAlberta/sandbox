@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang='en-us'>
+  {% include head.html %}
+  <body>
+    <div id='sp-fullscreen'>
+      {% include header.html %}
+      {% assign audio_object = site.data.objects[page.iden] %}
+      <div id='wax-main'>
+        <div id="wax-content" class='wax-inline-container'>
+          <div class='exhibit-meta'>
+            <h1 class='exhibit-title'>{{ page.title }}</h1>
+            {% if page.author %}
+              <h3 class='exhibit-author'>By {{ page.author }}</h3>
+            {% endif %}
+            <p class='exhibit-date' >Published on
+              <time datetime='{{ page.publish_date | date_to_xmlschema }}'>
+              {{ page.Date | date: "%A, %B %d, %Y" }}
+              </time>
+            </p>
+          </div>
+        </div>
+
+        <div>
+          <div class="sp-objects-content">
+            <input class="sp-annotation-checkbox-input" type="checkbox" name="" id="" />
+            <div class="sp-annotation-checkbox"></div>
+            <div class="sp-metadata">
+              <h3>About</h3>
+              {% for metadata in audio_object.metadata %}
+              <p><b>{{ metadata.key }}:</b><br> {{ metadata.value }}</p>
+              {% endfor %}
+            </div>
+            {% if audio_object.annotations.size > 0 %}
+            <div class="sp-divider"></div>
+            <div class="sp-annotations">
+              <h3>Time Stamped Sections</h3>
+              {% for annotation in audio_object.annotations %}
+              <div class="sp-timestamp">
+                <p>{{ annotation.title }}: <a onclick="seek({{ annotation.time }})">{{ annotation.formatted }}</a></p>
+              </div>
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+      <div class="fixed-audio">
+        {% assign objects = "" | split: "," | push: page.iden %}
+        {% include player.html aviary_id=objects %}
+      </div>
+
+      <style>
+        #wax-footer {
+          padding-bottom: 150px !important;
+        }
+      </style>
+
+      {% include footer.html %}
+    </div>
+    <script src="{{ '/assets/bootstrap/bootstrap.min.js' | absolute_url }}"></script>
+    <script src="{{ '/assets/popper.min.js' | absolute_url }}"></script>
+  </body>
+</html>
+
+
+

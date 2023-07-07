@@ -1,5 +1,7 @@
 # SpokenWeb UAlberta SANDBOX
-Welcome to the SpokenWeb U Alberta sandbox! This is a copy of the website, which has been built for training purposes.
+Welcome to the SpokenWeb U Alberta sandbox!
+
+This is a copy of the website, which has been built for training purposes.
 
 To visit the official SpokenWeb U Alberta site click [here](https://cmiya.github.io/spokenweb-ualberta/).
 

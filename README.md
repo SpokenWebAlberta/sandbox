@@ -3,6 +3,8 @@ Welcome to the SpokenWeb U Alberta sandbox!
 
 This is a copy of the website, which has been built for training purposes.
 
+Our documentation can be found on the [SpokenWeb U Alberta wiki](https://github.com/SpokenWebAlberta/sandbox/wiki).
+
 To visit the official SpokenWeb U Alberta site click [here](https://cmiya.github.io/spokenweb-ualberta/).
 
 ## About Us

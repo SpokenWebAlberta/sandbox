@@ -34,7 +34,7 @@ permalink: '/team/'
 </div>**Chelsea Miya** is a Postdoctoral Fellow with the SpokenWeb and Digital Initiatives at the University of Alberta. Her research and teaching interests include critical code studies, nineteenth-century American literature, and the digital humanities. She also produces episodes for the <i>The SpokenWeb Podcast</i> and you can hear her work in the episodes "Sounds of Data," "Academics on Air," and "Drum Codes."
 
 <div class = "figure bio">
-  <img src="{{ '/img/bio/Kroon.jpg' | absolute_url }}" />
+  <img src="{{ '/img/bio/Ariel Kroon headshot 1.jpg' | absolute_url }}" />
 </div> **Ariel Kroon** (she/her) is an independent settler scholar whose PhD research focused on post-apocalyptic crisis narratives in the context of Canadian literature and science fiction. She has given talks and workshops on topics including but not limited to rights management for archival audio, climate anxiety, genre fiction, and Canadian literature, and co-hosts and produces the podcast Solarpunk Presents; her academic work has appeared in <a href="https://sfrareview.org/2021/04/23/living-beyond-the-end-times-an-argument-for-queer-utopianism/">SFRA Review</a>, The Goose, Canadian Literature and the SpokenWeb Podcast episode “Academics on Air.” Connect with her at arielkroon.ca.
 
 ### Graduate Research Assistants

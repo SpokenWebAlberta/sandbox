@@ -35,7 +35,7 @@ permalink: '/team/'
 
 <div class = "figure bio">
   <img src="{{ '/img/bio/Kroon.jpg' | absolute_url }}" />
-</div> **Ariel Kroon** is a recent graduate of U of A. Her PhD thesis studied narratives of crisis in Canadian post-apocalyptic science fiction from 1948-1989, and what contemporary Canadians can learn from them. She is interested in the ways that the attitudes of the past shape our future-oriented imaginaries and actions in the present. She has published in SFRA Review and The Goose, and is currently a non-fiction editor at Solarpunk Magazine. Research interests of hers include post-humanist feminist theory and philosophy, ecocriticism, and solarpunk. Connect with her on YouTube, at Academia.edu, or her personal blog.
+</div> **Ariel Kroon** (she/her) is an independent settler scholar whose PhD research focused on post-apocalyptic crisis narratives in the context of Canadian literature and science fiction. She has given talks and workshops on topics including but not limited to rights management for archival audio, climate anxiety, genre fiction, and Canadian literature, and co-hosts and produces the podcast Solarpunk Presents; her academic work has appeared in <a href="https://sfrareview.org/2021/04/23/living-beyond-the-end-times-an-argument-for-queer-utopianism/">SFRA Review</a>, The Goose, Canadian Literature and the SpokenWeb Podcast episode “Academics on Air.” Connect with her at arielkroon.ca.
 
 ### Graduate Research Assistants
 
